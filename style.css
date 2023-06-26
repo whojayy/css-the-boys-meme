@@ -1,0 +1,48 @@
+h3{
+    font-family: 'Libre Baskerville', serif;
+    color: orangered;
+    background-color: black;
+    text-align: center;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+body{
+    background-color: black;
+}
+
+.orange{
+    color: orangered;
+    text-align: center;
+    font-size: 1rem;
+    margin: 0;
+}
+
+.red{
+    color: red;
+    text-align: center;
+    font-size: 1rem;
+    margin: 0;
+}
+
+#Homelander{
+    border: 1pt red solid;
+    margin: 0;
+}
+
+#BillyButcher{
+    border: 1pt orangered solid;
+    margin-top: 2%;
+}
+
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 0%;
+    text-align: center;
+}
+
+#TheBoys{
+    height: 15%;
+    width: 15%;
+}
